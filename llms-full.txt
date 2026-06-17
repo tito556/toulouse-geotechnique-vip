@@ -1,0 +1,43 @@
+# Geotechnique — Toulouse
+
+> Geotechnical engineering services in Toulouse, France.
+
+## Services
+- [Amelioration Sols](https://toulouse.geotechnique.vip/amelioration-sols/)
+- [Ancrages](https://toulouse.geotechnique.vip/ancrages/)
+- [Chaussee Souple](https://toulouse.geotechnique.vip/chaussee-souple/)
+- [Colonnes Ballastees](https://toulouse.geotechnique.vip/colonnes-ballastees/)
+- [Essai Cpt](https://toulouse.geotechnique.vip/essai-cpt/)
+- [Essai Plaque Charge](https://toulouse.geotechnique.vip/essai-plaque-charge/)
+- [Excavations](https://toulouse.geotechnique.vip/excavations/)
+- [Fondations](https://toulouse.geotechnique.vip/fondations/)
+- [Geophysique](https://toulouse.geotechnique.vip/geophysique/)
+- [Geotechnique Routiere](https://toulouse.geotechnique.vip/geotechnique-routiere/)
+- [Granulometrie](https://toulouse.geotechnique.vip/granulometrie/)
+- [Investigation](https://toulouse.geotechnique.vip/investigation/)
+- [Isolation Sismique](https://toulouse.geotechnique.vip/isolation-sismique/)
+- [Labo In Situ](https://toulouse.geotechnique.vip/labo-in-situ/)
+- [Laboratoire](https://toulouse.geotechnique.vip/laboratoire/)
+- [Limites Atterberg](https://toulouse.geotechnique.vip/limites-atterberg/)
+- [Masw](https://toulouse.geotechnique.vip/masw/)
+- [Microzonage Sismique](https://toulouse.geotechnique.vip/microzonage-sismique/)
+- [Murs Soutenement](https://toulouse.geotechnique.vip/murs-soutenement/)
+- [Permeabilite In Situ](https://toulouse.geotechnique.vip/permeabilite-in-situ/)
+- [Pieux](https://toulouse.geotechnique.vip/pieux/)
+- [Puits Inspection](https://toulouse.geotechnique.vip/puits-inspection/)
+- [Refraction Sismique](https://toulouse.geotechnique.vip/refraction-sismique/)
+- [Resistivite](https://toulouse.geotechnique.vip/resistivite/)
+- [Semelles](https://toulouse.geotechnique.vip/semelles/)
+- [Sismique](https://toulouse.geotechnique.vip/sismique/)
+- [Surveillance Excavations](https://toulouse.geotechnique.vip/surveillance-excavations/)
+- [Talus](https://toulouse.geotechnique.vip/talus/)
+- [Triaxial](https://toulouse.geotechnique.vip/triaxial/)
+- [Tunnels Sol Mou](https://toulouse.geotechnique.vip/tunnels-sol-mou/)
+- [Vibrocompactage](https://toulouse.geotechnique.vip/vibrocompactage/)
+
+## Contact
+- Website: https://toulouse.geotechnique.vip/
+
+## About
+This site provides geotechnical engineering services in Toulouse, France.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
